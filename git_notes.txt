@@ -1,0 +1,19 @@
+Basic Git Workflow
+  1. Modify - Staged
+  2. Add - Snapshot
+  3. Commit - Shared
+
+Parts of Git Commit
+  1. Author
+  2. Timestamp
+  3. Comment
+  4. Unique ID
+  5. Changes themselves
+
+
+Stages
+  1. git init - Designates a git repository
+  2. git add "filename" - adds a modified file to the git
+  3. git status - Shows what files have been added/modified
+  4. git diff - Shows what/how many changes have been made
+  5. git commit -m "message" - commits added files to git repo with message re: changes
