@@ -1,3 +1,6 @@
+#List hidden directories
+ls -a
+
 cd
 history | less
 man ls
@@ -26,7 +29,7 @@ cd mov
 ls -l
 clear
 cd /users/ryananthony/
-cd 
+cd
 ls -a
 ls -tZ
 ls -tz
@@ -49,7 +52,7 @@ brew install gi
 echo $PATH
 subl /etc/paths
 sub /etc/paths
-subl $PATH 
+subl $PATH
 subl -w
 echo $EDITOR
 echo $ED
